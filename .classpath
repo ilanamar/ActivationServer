@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="THIRD_PARTY/apache-commons/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/exolab-castor/lib/castor-0.9.5-xml.jar"/>
+	<classpathentry kind="src" path="/Bridge2Nagra"/>
+	<classpathentry kind="src" path="/Bridge2Nds"/>
+	<classpathentry kind="src" path="/Common"/>
+	<classpathentry kind="lib" path="dist/config"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mx4j/lib/mx4j.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mx4j/lib/mx4j-examples.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mx4j/lib/mx4j-impl.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mx4j/lib/mx4j-jmx.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mx4j/lib/mx4j-remote.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mx4j/lib/mx4j-rimpl.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mx4j/lib/mx4j-rjmx.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mx4j/lib/mx4j-tools.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mortbay-jetty/lib/org.mortbay.jetty.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/mortbay-jetty/lib/javax.servlet.jar"/>
+	<classpathentry kind="var" path="THIRD_PARTY/apache-log4j/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/dev/tools/xalan-j_2_7_0/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/dev/tools/xalan-j_2_7_0/serializer.jar"/>
+	<classpathentry kind="lib" path="C:/dev/tools/xalan-j_2_7_0/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/dev/tools/xalan-j_2_7_0/xercesImpl.jar"/>
+	<classpathentry kind="output" path="output/classes"/>
+</classpath>

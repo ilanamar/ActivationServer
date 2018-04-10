@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+    <jar path="./ActivationServer/output/build/server.jar"/>
+    <options overwrite="true" compress="false" exportErrors="true" exportWarnings="true" saveDescription="true" descriptionLocation="./ActivationServer/create-jar.jardesc" useSourceFolders="false" buildIfNeeded="true"/>
+    <manifest manifestVersion="1.0" usesManifest="true" reuseManifest="false" saveManifest="false" generateManifest="true" manifestLocation="">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportOutputFolder="true" exportJavaFiles="true">
+        <folder path="./ActivationServer/output/classes"/>
+    </selectedElements>
+</jardesc>
